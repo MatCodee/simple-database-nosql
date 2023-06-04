@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/Users/matiasaltamirano/desktop/github/matcodee/c++/projects/nosql/build",
-  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -o CMakeFiles/app.dir/src/main.cpp.o -c /Users/matiasaltamirano/desktop/github/matcodee/c++/projects/nosql/src/main.cpp",
-  "file": "/Users/matiasaltamirano/desktop/github/matcodee/c++/projects/nosql/src/main.cpp"
-}
-]

@@ -1,1 +1,0 @@
-. "/Users/matiasaltamirano/Desktop/github/matcodee/c++/projects/nosql/build/build/conanrunenv-release-armv8.sh"
