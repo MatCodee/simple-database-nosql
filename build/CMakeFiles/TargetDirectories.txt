@@ -1,0 +1,3 @@
+/Users/matiasaltamirano/desktop/github/matcodee/c++/projects/nosql/build/CMakeFiles/app.dir
+/Users/matiasaltamirano/desktop/github/matcodee/c++/projects/nosql/build/CMakeFiles/edit_cache.dir
+/Users/matiasaltamirano/desktop/github/matcodee/c++/projects/nosql/build/CMakeFiles/rebuild_cache.dir

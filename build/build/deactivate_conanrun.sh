@@ -1,0 +1,1 @@
+. "/Users/matiasaltamirano/Desktop/github/matcodee/c++/projects/nosql/build/build/deactivate_conanrunenv-release-armv8.sh"
